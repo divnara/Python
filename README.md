@@ -1,1 +1,1 @@
-# Python
+Commands  to create python project 
